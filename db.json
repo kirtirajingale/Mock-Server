@@ -1,5 +1,7 @@
 {
   "data": [
-   
+   {"id":"1","title":"Avengers","ratings":5},
+   {"id":"2","title":"Superman","ratings":5},
+   {"id":"2","title":"Batman","ratings":4}
   ]
 }
